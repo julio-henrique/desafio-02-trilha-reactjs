@@ -3,6 +3,7 @@
 - [Visão geral](#visao-geral)
   - [O desafio](#o-desafio)
 - [Meu processo](#meu-processo)
+  - [Built with](#built-with)
   - [Oque eu aprendi](#oque-eu-aprendi)
   - [Desenvolvimento continuo](#desenvolvimento-continuo)
 - [Author](#author)
@@ -27,6 +28,11 @@ Comecei só adicionando a api e fazendo o básico do localStorage, depois eu fui
 Eu percebi que foi definitivamente mais fácil trabalhar com o TypeScript nesse projeto. 
 Todas as minhas dúvidas e dificuldades foram solucionadas com uma leitura dos erros, antes eu não entendia os erros, sinal de progresso.
 
+### Built with
+- ReactJS
+- TypeScript
+- SASS
+- Tostify
 
 ### Oque eu aprendi
 
