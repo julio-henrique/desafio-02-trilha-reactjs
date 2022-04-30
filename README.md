@@ -39,4 +39,4 @@ Todas as minhas dúvidas e dificuldades foram solucionadas com uma leitura dos e
 ### Desenvolvimento continuo
 
 ## Author
-- Linkedin - [@Júlio-Henrique](https://www.linkedin.com/in/julio-h)
+- Linkedin - [Julio Henrique](https://www.linkedin.com/in/julio-henriqueCS/)
